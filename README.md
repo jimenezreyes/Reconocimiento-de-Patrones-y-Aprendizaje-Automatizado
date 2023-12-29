@@ -6,9 +6,9 @@ Este repositorio contiene materiales relacionados con la asignatura de Reconocim
 
 - **Prácticas:** En la carpeta encontrarás las prácticas realizadas en clase, cada una con su correspondiente descripción y código fuente.
 
-- **Proyecto:** El proyecto principal de la materia se encuentra en la carpeta [Proyecto](Proyecto/). Este proyecto aborda [breve descripción del proyecto].
+- **Proyecto:** El proyecto principal de la materia se encuentra en la carpeta **Proyecto**. Este proyecto aborda el analisis de sentimientos con datos tomados de Kaggle.
 
-- **Ejercicios:** En la carpeta [Ejercicios](Ejercicios/) están los ejercicios que hemos revisado en clase. Cada ejercicio incluye su enunciado y, cuando sea posible, una solución o explicación.
+- **Ejercicios:** En la carpeta **actividades y ejemplos** están los ejercicios que hemos revisado en clase. Cada ejercicio incluye su enunciado y, cuando sea posible, una solución o explicación.
 
 ## Integrantes
   - López Carrillo Alan Ignacio
