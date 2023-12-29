@@ -4,7 +4,7 @@ Este repositorio contiene materiales relacionados con la asignatura de Reconocim
 
 ## Contenido
 
-- **Prácticas:** En la carpeta [Practicas](Practicas/) encontrarás las prácticas realizadas en clase, cada una con su correspondiente descripción y código fuente.
+- **Prácticas:** En la carpeta encontrarás las prácticas realizadas en clase, cada una con su correspondiente descripción y código fuente.
 
 - **Proyecto:** El proyecto principal de la materia se encuentra en la carpeta [Proyecto](Proyecto/). Este proyecto aborda [breve descripción del proyecto].
 
